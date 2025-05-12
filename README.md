@@ -1,5 +1,6 @@
 # EXNO-6-DS-DATA VISUALIZATION USING SEABORN LIBRARY
-
+## DEVELOPED BY: PRIYAN
+## REG NO: 212224230221
 # Aim:
   To Perform Data Visualization using seaborn python library for the given datas.
 
